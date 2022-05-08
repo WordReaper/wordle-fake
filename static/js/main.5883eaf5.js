@@ -587,7 +587,7 @@
             do {
               i = (a = r.length ? r : M[e].targets)[Math.floor(a.length * m())];
             } while (/\*/.test(i));
-            return "poopy";
+            return "faker";
           };
         !(function (e) {
           (e[(e.Playing = 0)] = "Playing"),
